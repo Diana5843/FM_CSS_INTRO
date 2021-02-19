@@ -1,0 +1,39 @@
+h2 {
+  color: rgb(236, 213, 236);
+  background-color: dimgrey;
+  font-size: 40px;
+  line-height: 0, 8em;
+}
+
+p {
+  font-size: 20px;
+  font-family: "Roboto", sans-serif;
+}
+
+.main-caption {
+  color: rgb(173, 224, 233);
+  font-size: 40px;
+  line-height: 1.2em;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#test1 {
+  color: crimson;
+  font-size: 40px;
+}
+
+.main-link {
+  font-size: 40;
+  color: navy;
+  text-decoration: wavy underline crimson;
+
+  /* text-decoration-line: underline;
+  text-decoration-style: wavy;
+  text-decoration-color: maroon; */
+}
+
+.line-span {
+  font-size: 100px;
+  font-weight: 40px;
+  font-family: "Ballet", "Arial", cursive;
+}
