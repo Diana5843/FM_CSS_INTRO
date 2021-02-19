@@ -37,3 +37,11 @@ p {
   font-weight: 40px;
   font-family: "Ballet", "Arial", cursive;
 }
+
+.main-headline {
+  color: darkmagenta !important;
+}
+
+.second-headline {
+  color: indigo;
+}
